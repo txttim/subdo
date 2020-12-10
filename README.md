@@ -6,8 +6,8 @@
     pkg install git
     git clone https://github.com/txttim/subdo
     cd subdo
-    chmod +x *
-    bash subdo.sh
+    chmod +x subdo.sh
+     bash subdo.sh
     Enjoyy...
     
 # Cara menggunakan
