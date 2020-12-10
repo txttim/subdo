@@ -4,7 +4,7 @@
     pkg install nodejs
     pkg install python
     pkg install git
-    git clone https://guithub.com/txttim/subdo
+    git clone https://github.com/txttim/subdo
     cd subdo
     chmod +x *
     bash subdo.sh
